@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MySite/static/css/main.cb158fa0.chunk.css",
-    "main.js": "/MySite/static/js/main.8d4dc475.chunk.js",
-    "main.js.map": "/MySite/static/js/main.8d4dc475.chunk.js.map",
+    "main.js": "/MySite/static/js/main.ace766f2.chunk.js",
+    "main.js.map": "/MySite/static/js/main.ace766f2.chunk.js.map",
     "runtime-main.js": "/MySite/static/js/runtime-main.0e706abc.js",
     "runtime-main.js.map": "/MySite/static/js/runtime-main.0e706abc.js.map",
     "static/js/2.e8d6995b.chunk.js": "/MySite/static/js/2.e8d6995b.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/aoc.4cd26e82.png": "/MySite/static/media/aoc.4cd26e82.png",
     "static/media/chess.05b68c6c.png": "/MySite/static/media/chess.05b68c6c.png",
     "static/media/Snake.css": "/MySite/static/media/chief.9783bcbf.png",
-    "static/media/cv.22b96042.jpg": "/MySite/static/media/cv.22b96042.jpg",
+    "static/media/cv.5551f86a.png": "/MySite/static/media/cv.5551f86a.png",
     "static/media/euler.206b3e8e.png": "/MySite/static/media/euler.206b3e8e.png",
     "static/media/flappy.acb3105c.png": "/MySite/static/media/flappy.acb3105c.png",
     "static/media/github.69ffd9cd.png": "/MySite/static/media/github.69ffd9cd.png",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.0e706abc.js",
     "static/js/2.e8d6995b.chunk.js",
     "static/css/main.cb158fa0.chunk.css",
-    "static/js/main.8d4dc475.chunk.js"
+    "static/js/main.ace766f2.chunk.js"
   ]
 }
