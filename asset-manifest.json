@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MySite/static/css/main.d50fbe9d.chunk.css",
+    "main.css": "/MySite/static/css/main.075dab8d.chunk.css",
     "main.js": "/MySite/static/js/main.5edda9ab.chunk.js",
     "main.js.map": "/MySite/static/js/main.5edda9ab.chunk.js.map",
     "runtime-main.js": "/MySite/static/js/runtime-main.0e706abc.js",
@@ -8,7 +8,7 @@
     "static/js/2.e8d6995b.chunk.js": "/MySite/static/js/2.e8d6995b.chunk.js",
     "static/js/2.e8d6995b.chunk.js.map": "/MySite/static/js/2.e8d6995b.chunk.js.map",
     "index.html": "/MySite/index.html",
-    "static/css/main.d50fbe9d.chunk.css.map": "/MySite/static/css/main.d50fbe9d.chunk.css.map",
+    "static/css/main.075dab8d.chunk.css.map": "/MySite/static/css/main.075dab8d.chunk.css.map",
     "static/js/2.e8d6995b.chunk.js.LICENSE.txt": "/MySite/static/js/2.e8d6995b.chunk.js.LICENSE.txt",
     "static/media/aoc.4cd26e82.png": "/MySite/static/media/aoc.4cd26e82.png",
     "static/media/chess.05b68c6c.png": "/MySite/static/media/chess.05b68c6c.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.0e706abc.js",
     "static/js/2.e8d6995b.chunk.js",
-    "static/css/main.d50fbe9d.chunk.css",
+    "static/css/main.075dab8d.chunk.css",
     "static/js/main.5edda9ab.chunk.js"
   ]
 }
